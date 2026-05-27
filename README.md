@@ -1,5 +1,5 @@
 # Ex.No: 6               HOLT WINTERS METHOD
-### Date: 18-05-2026
+### Date: 23-05-2026
 ```
 NAME: KAAVIYAN K
 REG NO: 212224240066
